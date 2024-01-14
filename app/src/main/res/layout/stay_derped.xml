@@ -47,14 +47,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/gsans"
-                android:text="#Stay"
+                android:text="Prove"
                 android:textColor="@android:color/white"
                 android:textSize="20sp"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Derped"
+                android:text="Yourself"
                 android:fontFamily="@font/gsans"
                 android:textColor="@android:color/system_accent1_600"
                 android:textSize="20sp"/>
